@@ -1,0 +1,120 @@
+.wrap{
+
+    width: 100%;
+    height:100%;
+    margin: 0 auto;
+
+    background-image: url(background.jpg);
+   
+}
+
+.interface{
+
+    width: 375px;
+    height: 623px;
+    margin: 0 auto;
+    border: 1px solid black;
+
+    position: relative;
+
+    background-color: #fff;
+
+}
+
+.btn-back{
+
+    position: absolute;
+    left:25px;
+    top:20px;
+
+}
+
+.title-word{
+
+    position: absolute;
+    left:147px;
+    top:20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+
+.menu{
+
+    position: absolute;
+    right:25px;
+    top:20px;
+}
+
+.img-radius img{
+
+    border-radius: 50%;
+
+    position: absolute;
+    top:100px;
+    left:38px;
+
+}
+
+.song-name{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+
+    position: absolute;
+    bottom:155px;
+    left:110px;
+    text-align: center;
+
+}
+
+.btn-cycle{
+
+    position: absolute;
+    bottom:60px;
+    left:40px;
+
+}
+
+.btn-last-track{
+
+    position: absolute;
+    bottom:60px;
+    left:95px;
+
+}
+
+.btn-pause{
+
+    position: absolute;
+    bottom:15px;
+    left:140px;
+
+}
+
+.btn-play{
+
+    position: absolute;
+    bottom:45px;
+    left:178px;
+
+}
+
+.btn-next-track{
+
+    position: absolute;
+    bottom:60px;
+    right:95px;
+
+}
+
+.btn-random{
+
+    position: absolute;
+    bottom:60px;
+    right:40px;
+
+}
+
